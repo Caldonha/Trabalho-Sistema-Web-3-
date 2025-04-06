@@ -42,8 +42,9 @@ O banco de dados possui as seguintes tabelas principais:
 
 O diagrama completo do banco, exibindo as tabelas e seus relacionamentos, encontra-se disponível no repositório:
 
-📎 `![image](https://github.com/user-attachments/assets/ca31a63d-d85b-4697-bd7c-d3e9ec670486)
-`
+📎 ![diagrama do banco de dados](https://github.com/user-attachments/assets/3652646b-38ba-4813-aa79-49b7fdbed4c3)
+
+
 
 ---
 
